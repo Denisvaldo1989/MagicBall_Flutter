@@ -3,7 +3,8 @@
 Mais um Aplicativo simples.
 
 ## Preview
-<img src="">
+<img src="https://github.com/Denisvaldo1989/MagicBall_Flutter/blob/master/codeexample/MagicBall.png">
+<img src="https://github.com/Denisvaldo1989/MagicBall_Flutter/blob/master/codeexample/MagicBall.gif"width=300">
 
 
 ## Getting Started
